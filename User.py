@@ -8,6 +8,3 @@ class User:
         print(f"Hi, my name is {self.name} {self.lastName}")
 
 
-u = User("Robot", "9000")
-u.hi()
-
